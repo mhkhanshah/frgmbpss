@@ -4,10 +4,10 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = 'a44d7824-b672-4da6-8f91-a45b9fe9dcc2';
+let userID = '6c449b53-9c2d-4efc-9f14-8273bff41afd';
 let proxyIP = "49.51.46.56";
 
-let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
+let dohURL = 'https://kksfbbwx5t.cloudflare-gateway.com/dns-query'; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
 // v2board api environment variables
 let nodeId = ''; // 1
